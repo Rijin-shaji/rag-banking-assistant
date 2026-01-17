@@ -1,0 +1,7 @@
+PyPDF2
+nltk
+torch
+transformers
+faiss-cpu
+numpy
+groq
