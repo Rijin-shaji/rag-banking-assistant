@@ -7,7 +7,7 @@ An LLM-powered Retrieval-Augmented Generation (RAG) system for answering banking
 
 ---
 
-##  Project Overview
+#  Project Overview
 
 `rag-banking-assistant` is an AI-based question-answering system that allows users to ask questions about **banking and finance topics** such as:
 - NEFT, RTGS, IMPS
