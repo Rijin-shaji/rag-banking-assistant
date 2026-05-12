@@ -20,7 +20,7 @@ The system retrieves relevant information from **PDF documents** and generates a
 
 ---
 
-##  How It Works (RAG Flow)
+#  How It Works (RAG Flow)
 
 1. PDFs are loaded and split into text chunks  
 2. Text chunks are converted into **vector embeddings**
