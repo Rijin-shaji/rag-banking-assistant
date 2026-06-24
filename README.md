@@ -1,4 +1,4 @@
-## rag-banking-assistant
+# rag-banking-assistant
 A RAG-based AI assistant that answers banking and financial queries using document knowledge.
 
 # rag-banking-assistant 
