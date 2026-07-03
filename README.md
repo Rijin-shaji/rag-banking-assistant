@@ -31,7 +31,7 @@ The system retrieves relevant information from **PDF documents** and generates a
 
 ---
 
-##  Tech Stack
+#  Tech Stack
 
 - Python 
 - Large Language Model (LLM)
