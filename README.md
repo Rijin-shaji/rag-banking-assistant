@@ -1,4 +1,4 @@
-Banking RAG Assistant
+#Banking RAG Assistant
 
 An Enterprise-Grade Banking Retrieval-Augmented Generation (RAG) Assistant built using Python, LangChain, FAISS, Hugging Face Embeddings, Groq Llama 3.3, GitHub-based document ingestion, and Streamlit.
 
