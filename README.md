@@ -75,13 +75,10 @@ Workflow:
 
 User Query
      │
-     ▼
 Embedding Generation
      │
-     ▼
 FAISS Similarity Search
      │
-     ▼
 Top Relevant Chunks
  LLM Processing
 
