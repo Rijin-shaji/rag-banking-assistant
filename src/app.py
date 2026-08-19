@@ -1,5 +1,5 @@
 import streamlit as st
-from llm import rag_chat
+from main import rag_chat
 
 st.set_page_config(
     page_title="Banking RAG Assistant",
