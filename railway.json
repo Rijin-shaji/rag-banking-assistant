@@ -1,5 +1,9 @@
 {
+  "build": {
+    "builder": "RAILPACK",
+    "buildCommand": "pip install -r requirements.txt"
+  },
   "deploy": {
-    "startCommand": "bash -c \"python --version && pip list && which streamlit\""
+    "startCommand": "streamlit run src/app.py --server.address 0.0.0.0 --server.port $PORT"
   }
 }
