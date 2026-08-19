@@ -1,4 +1,4 @@
-streamlit
+Streamlit
 langchain
 langchain-community
 langchain-core
