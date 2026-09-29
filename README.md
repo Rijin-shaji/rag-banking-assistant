@@ -4,7 +4,7 @@ An Enterprise-Grade Banking Retrieval-Augmented Generation (RAG) Assistant built
 
 The system retrieves relevant information from banking documents and generates accurate, context-aware responses using Large Language Models (LLMs).
 
- Features
+# Features
 Banking-specific question answering
 Retrieval-Augmented Generation (RAG)
 Automatic document ingestion from GitHub
@@ -106,5 +106,4 @@ Context-aware conversations
 Clean web-based UI
 
 Run:
-
 streamlit run app.py
