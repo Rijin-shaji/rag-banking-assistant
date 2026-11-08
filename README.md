@@ -17,7 +17,7 @@ Streamlit web interface
 Groq Llama 3.3 integration
 Modular architecture for easy scaling
 
-Programming Language
+# Programming Language
 Python
 Frameworks & Libraries
 Streamlit
